@@ -1,5 +1,5 @@
 
-Αυτό το CRUD app, έχει μια πολύ απλή φόρμα στο first_stage branch στο Resources/Views/crud.blade.php και ένα πολύ απλό web.php router.
+Αυτό το CRUD app, έχει μια πολύ απλή φόρμα στο Resources/Views/crud.blade.php και ένα πολύ απλό web.php router.
 
 Έχουν δημουργηθεί τα παρακάτω:
 - Profile Model
